@@ -1,0 +1,127 @@
+<html>
+<body>
+ <title>trabalho de prog. web e fund. de redes</title>
+  <meta charset="utf-8">
+  </body>
+  <head>
+    <h1>Componentes do grupo:</h1>
+    <ol>
+    <li>Carlos Henrique</li>
+    <li>Fllavyo Nyellyson</li>
+    </ol>
+    <h2>Nome do grupo: Black bulls(10)</h2>
+    <ul>
+    <li>Carlos Henrique(14)</li>
+    <li>Fllavyo Nyellyson(16)</li>
+    </ul>
+    <p>total: 16+14 = 30/10=3</p>
+    
+    <h2>Saúde e Bem-Estar</h2>
+    
+    <h3>O que é saúde e bem-estar?</h3>
+    
+    <p>Assegurar uma vida saudável e promover o bem-estar para todos, em todas as idades, é o terceiro Objetivo de Desenvolvimento Sustentável (ODS) da Organização das Nações Unidades (ONU). O que muita gente não sabe é que saúde e bem-estar são dois conceitos bem diferentes e que merecem atenção.<br>A maioria das pessoas acredita que saúde significa apenas a ausência de doenças, mas esse conceito é mais amplo do que parece. Isso porque, segundo a Organização Mundial de Saúde (OMS), saúde significa ter o corpo, a mente e a vida social saudáveis.<br>Já bem-estar é um conceito ainda mais complexo, pois diz respeito à satisfação de cada indivíduo e pode ser entendido como algo objetivo, quando relacionado a aspectos sociais e econômicos, e subjetivo, se relacionando com a experiência de vida.<br>É por isso que o bem-estar subjetivo é dividido em afetos positivos, afetos negativos e satisfação com a vida.<br>Assim, podemos dizer que ter bem-estar é a capacidade de uma pessoa suprir as suas necessidades e se satisfazer com a vida, enquanto ter saúde significa viver em um estado de mais completo bem-estar físico, mental e social.<br>E o que saúde, bem-estar e qualidade de vida têm em comum? A busca por um corpo e uma mente sadios! Confira algumas dicas para isso:</p>
+    
+    <ul>
+    <li>Beba muito água.</li>
+    <li>Tenha uma dieta rica em alimentos naturais, evitando produtos industrializados e com excesso de sal, açúcar e gordura.</li>
+    <li>Pratique exercícios físicos regularmente.</li>
+    <li> Cuide da sua saúde mental.</li>
+    <li>Evite bebidas alcóolicas e o fumo.</li>
+    <li>Faça consultas regulares com o seu médico de referência.</li>
+    </ul>
+    
+    <div class="container">
+    <img src="https://blogeducacaofisica.com.br/wp-content/uploads/2017/05/Atividade-F%C3%ADsica-1.jpg" width="325" height="210" />
+</div>   
+    
+    <a href="https://www.cemigsaude.org.br/site/pagina/detalhe/19274">Fonte</a>    
+    <h3>Qual a importância da saúde e bem-estar?</h3>
+    
+    <p>Segundo a Organização Mundial de Saúde (OMS), saúde pode ser definida como “um estado de completo bem-estar físico, mental e social, e não apenas a ausência de doença ou enfermidades”. Sendo assim, não basta apenas estar sem nenhuma doença, é necessário estar bem consigo mesmo e com o corpo, sem sentir dores ou até mesmo tristeza.<br>Para conseguir bem-estar físico, é importante estar sempre ativo através da prática de exercícios. Não há idade para iniciar as atividades físicas, por isso, faça uma caminhada, natação ou até mesmo exercícios mais pesados, como musculação. O importante é realizar uma atividade que gere bem-estar. Além disso, é válido ter sempre em mente que os exercícios físicos aumentam a expectativa de vida, diminuem o estresse, além de proporcionarem mais beleza quando o assunto é estética.<br>Para conseguir bem-estar mental, é preciso preocupar-se com o emocional. Por que se estressar com coisas pequenas? Mantenha a alegria e as atitudes positivas! Evite sentimentos ruins e sempre tente fazer com que as pessoas tenham uma experiência agradável ao seu lado. Ninguém gosta da companhia de pessoas amargas e rancorosas, não é mesmo?<br>O bem-estar social, por sua vez, diz respeito às relações sociais de cada indivíduo. Para estar bem socialmente, é necessário manter boas relações com a família, no ambiente de trabalho e com a sociedade em geral. Essa interação com outros indivíduos é fundamental para o bem-estar individual.</p>
+    
+    <div class="container">
+    <img src="https://hospitalbrasilia.com.br/unidade-aguas-claras/pt/sobre-nos-site/blog-site/PublishingImages/dia_saude.jpg" width="400" height="205" />
+</div>
+    
+    <a href="https://www.biologianet.com/saude-bem-estar">Fonte</a> 
+    
+    <h2>Roteador</h2>
+    
+    <h4>O grupo escolheu o modelo TL-WR949N um roteador wireless da TP-Link por 5 motivos;</h4>
+    
+    <ul>
+    <li> 5 portas, uma WAN e 4 LAN, uma quantidade mais que boa pra uma residência</li>
+    <li> Uma velocidade de transferência de 450Mpbs
+</li>
+    <li> Preço acessível</li>
+    <li>Estética legal</li>
+    <li> Ser de uma marca confiável</li>
+    </ul>
+    
+    <p>As especificações do TL-WR949N são:</p>
+    
+    <p><strong>Características gerais:</strong></p>
+    
+    <ul>
+    <li>Marca: TP-Link</li>
+<li>Modelo: TL-WR949N</li>
+<li>Cor: Preto</li>
+<li>Unidades por embalagem: 1</li>
+      <li>Funções: Roteador</li>
+    </ul>
+<strong>Segurança</strong><br>
+    <ul>
+    <li>Com firewall integrado Sim</li>
+<li>Protocolos de segurança SPI</li>
+<li>Conexão e velocidade</li>
+    </ul>
+<strong>Tipo de conexão Sem fio</strong><br>
+    <ul>
+    <li>Velocidade wireless 450 Mbps</li>
+<li>Padrões wireless IEEE 802.11n, IEEE 802.11g, IEEE 802.11b</li>
+    </ul>
+<strong>Hardware</strong><br>
+    <ul>
+    <li>Quantidade de antenas </li>
+        <li>externas 3 </li>
+        <li>Quantidade total de ports5 </li>
+        <li>Quantidade de portas LAN4 </li>
+      <li>Quantidade de portas WAN1 </li>
+    </ul>
+    
+<p>Depois de escolher o roteador fizemos um pesquisa de preços na Americanas, Amazon e 
+Mercado livre,Com um preço mais acessível e um tempo de entrega razoável as lojas americanas foi o 
+local escolhido para realizar as compras.</p>
+
+    <table border="1">
+    <tr>
+        <td></td>
+      <td>Amazon</td>
+        <td>Mercado Livre</td>
+      <td>Americanas</td>
+    </tr>
+    
+    <tr>
+        <td>Preço</td>
+      <td>R$ 139,00</td>
+        <td>R$ 131,00</td>
+        <td>R$ 138,00</td>
+    </tr>
+    <tr>
+        <td>Preço Final</td>
+      <td>R$ 165,39</td>
+        <td>R$ 202,57</td>
+        <td>R$ 138,92</td>
+    </tr>
+    <tr>
+        <td>Tempo de entrega</td>
+      <td>13 dias</td>
+        <td>15 dias</td>
+        <td>13 dias</td>
+    </tr>
+    </table>
+    
+    
+</head>
+</html>
